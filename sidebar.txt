@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wyr:home|Door43 (wyr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wyr|d43-wyr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wyr/archive/master.zip|d43-wyr.zip]]
+
+**Recent Changes**
+{{changes>ns = wyr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wyr|Ethnologue data]]
+
